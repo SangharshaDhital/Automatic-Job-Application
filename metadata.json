@@ -1,0 +1,6 @@
+{
+  "name": "CareerVault AI — Local-First Job Search & Cover Letter Studio",
+  "description": "Open-source, privacy-first career search workspace powered by Gemini and local Ollama LLMs for job summarization, tailored cover letters, personalized outreach, application tracking, and interview scheduling alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
